@@ -2,7 +2,7 @@
 
 Submitted by: **Satyam Dhar**
 
-**iOS Test App** is an app that... [TODO] 
+**iOS Test App** is an app that... [randomizes the background color of the screen] 
 
 Time spent: **1** hour spent in total
 
